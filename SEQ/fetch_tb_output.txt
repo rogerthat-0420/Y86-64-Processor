@@ -1,0 +1,49 @@
+Instruction-1:
+ PC=1
+ icode=0000000000000000000000000000000000000000000000000000000000000000
+ ifun=0011
+ rA=0000
+ rB=1111
+ valC= 3
+ valP=     281474976710656
+ instruction_valid=                  10
+ imem_error=1
+ halt=0
+
+0Instruction-2:
+ PC=1
+ icode=0000000000000000000000000000000000000000000000000000000000001010
+ ifun=0011
+ rA=0000
+ rB=1111
+ valC= 2
+ valP=     562949953421312
+ instruction_valid=                  20
+ imem_error=1
+ halt=0
+
+0Instruction-3:
+ PC=1
+ icode=0000000000000000000000000000000000000000000000000000000000010100
+ ifun=0110
+ rA=0000
+ rB=0010
+ valC= 3
+ valP=     562949953421312
+ instruction_valid=                  22
+ imem_error=1
+ halt=0
+
+0Instruction-4:
+ PC=1
+ icode=0000000000000000000000000000000000000000000000000000000000010110
+ ifun=xxxx
+ rA=xxxx
+ rB=0010
+ valC= 3
+ valP=     562949953421312
+ instruction_valid=                  22
+ imem_error=0
+ halt=0
+
+0
