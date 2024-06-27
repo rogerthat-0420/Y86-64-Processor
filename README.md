@@ -6,8 +6,11 @@ The contents of the repository are as follows: -
 
 .
 ├── ALU
+
 │   ├── ALU.v
+
 │   ├── AND.v
+
 │   ├── XOR.v
 │   ├── adder.v
 │   ├── decoder.v
