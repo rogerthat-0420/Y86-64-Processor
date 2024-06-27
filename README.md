@@ -99,4 +99,4 @@ The contents of the repository are as follows: -
 └── report.pdf
 ```
 
-Please refer to the report for more details.
+Please refer to the report for more details. The sequential design works perfectly, the pipeline design is still a work in progress.
