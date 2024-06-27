@@ -1,5 +1,5 @@
 # Y86-64-Processor
-A Y86-64 processor implemented using Verilog that is capable of running Y86-64 instructions.
+A Y86-64 processor implemented using Verilog that is capable of running Y86-64 instructions. This repository contains both a sequential model as well as a 5 stage pipelined model.
 
 ## Contents
 The contents of the repository are as follows: -
@@ -65,3 +65,5 @@ The contents of the repository are as follows: -
 │   └── writeback_tb_output.txt
 └── report.pdf
 ```
+
+Please refer to the report for more details.
