@@ -1,7 +1,7 @@
 # Y86-64-Processor
 A Y86-64 processor implemented using Verilog that is capable of running Y86-64 instructions.
 
-# Contents
+## Contents
 The contents of the repository are as follows: -
 
 ```bash
